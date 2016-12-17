@@ -1,0 +1,15 @@
+{
+  "name": "systemjs_plugin_loader_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "$(npm bin)/http-server"
+  },
+  "author": "Evgeniy Poturaev <gig177@ya.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
