@@ -12,9 +12,10 @@ System.config({
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*"
   },
+
   meta: {
     "*.txt": {
-        "loader": "text"
+      "loader": "text"
     }
   },
 
